@@ -1,0 +1,14 @@
+make html file ✔️
+make boileplate code ✔️
+understand tag ✔️
+understand live-server ✔️
+understand h1-h6 ✔️
+understand lorem
+understand lorem(number)
+understand p ✔️
+understand br ✔️
+understand img ✔️
+understand a ✔️
+understand div ✔️
+understand id ✔️
+understand class ✔️
