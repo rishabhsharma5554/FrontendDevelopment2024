@@ -1,0 +1,19 @@
+understand css - styling ✔️
+making css file ✔️
+understanding linking ✔️
+css boilerplate ✔️
+understand css writing way ✔️
+    # -> id         ✔️
+    . -> class      ✔️
+    h1 -> tag       ✔️
+understand width,height ✔️
+understand units, px, and % ✔️
+understand 
+    margin - elements ke bich me space
+    padding - ek hi element ke ander space
+                (imaginary border inside element)
+understanding img and things related to it ✔️
+understand postition absolute ✔️
+    absolute se element uth jayga 
+    top,left,right will work only with position:absolute
+understand position relative - jisko ander rakhna he usse position relative banate he ✔️
